@@ -1,5 +1,4 @@
-![header](https://user-images.githubusercontent.com/59575502/127335491-fdba1874-e943-4d3c-ab8c-678ffe22f8b8.png)
-
+![header](https://private-user-images.githubusercontent.com/74038190/240304579-c288471c-be67-4fbb-af44-1c63ee9ed280.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTkyMDc0MDQsIm5iZiI6MTc1OTIwNzEwNCwicGF0aCI6Ii83NDAzODE5MC8yNDAzMDQ1NzktYzI4ODQ3MWMtYmU2Ny00ZmJiLWFmNDQtMWM2M2VlOWVkMjgwLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA5MzAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwOTMwVDA0MzgyNFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzZWQwMWI2MWUxMjk5NTM4MjRkMjQ5MmNhZWFlODYxOTBjYzY2ZWMwNzg3NjhjMjMxNmNkNDU1N2U5MGY5NWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.gxlCv3fzooXcUykfs0Rw_G-hsZx8CxunUqX8BZRhTDQ)
 <div align="center">
 <br>
     <img src="https://readme-typing-svg.herokuapp.com?font=Quicksand&color=66bb6a&size=50&center=true&vCenter=true&height=60&width=618&lines=Hi,+I'm+Vihanga+Gaganatharu;Welcome+to+My+Profile!;Ok..+Let's+go" alt="Typing Animation">
